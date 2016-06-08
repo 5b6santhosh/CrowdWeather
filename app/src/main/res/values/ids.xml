@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="setmessage" type="id">cro</item>
+    <item name="Setmessage" type="id" />
+    <item name="you" type="id">san</item>
+</resources>
